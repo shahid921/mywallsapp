@@ -1,0 +1,26 @@
+[
+      {
+		"name": "#1",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/1s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+	{
+		"name": "#2",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/2s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+	{
+		"name": "#3",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/3s.jpg",
+		"downloadable" : "false",
+		"collections": "abc"
+	}
+]
