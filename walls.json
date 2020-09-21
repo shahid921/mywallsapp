@@ -1,5 +1,29 @@
 [
 	{
+		"name": "river wood blue",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/river wood blue.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/river wood blues.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+	{
+		"name": "river wood orange",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/river wood orange.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/river wood oranges.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+	{
+		"name": "river wood pink",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/river wood pink.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/river wood pinks.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},	
+	{
 		"name": "crown pattern dark",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/crown pattern dark.jpg",
