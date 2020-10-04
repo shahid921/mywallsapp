@@ -1,5 +1,21 @@
 [
 {
+		"name": "miles morales logo",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/miles morales logo.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/miles morales logos.jpg",
+		"downloadable" : "false",
+		"collections": "Superhero"
+	},
+{
+		"name": "spiderman logo",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/spiderman logo.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/spiderman logos.jpg",
+		"downloadable" : "false",
+		"collections": "Superhero"
+	},
+{
 		"name": "dark green",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark green.jpg",
