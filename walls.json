@@ -1,5 +1,29 @@
 [
 {
+		"name": "Dock 1",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Dock 1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Dock 1s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Dock 2",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Dock 2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Dock 2s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Dock 3",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Dock 3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Dock 3s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "raindeer 1",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/raindeer 1.jpg",
