@@ -1,5 +1,29 @@
 [
 {
+		"name": "pink moon",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pink moon.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pink moons.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "green moon",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/green moon.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/green moons.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "blue moon",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/blue moon.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/blue moons.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "Dock 1",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Dock 1.jpg",
