@@ -1,5 +1,29 @@
 [
 {
+		"name": "amoled 1",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled 1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled 1s.jpg",
+		"downloadable" : "false",
+		"collections": "Amoled"
+	},
+{
+		"name": "amoled 2",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled 2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled 2s.jpg",
+		"downloadable" : "false",
+		"collections": "Amoled"
+	},
+{
+		"name": "amoled 3",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled 3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled 3s.jpg",
+		"downloadable" : "false",
+		"collections": "Amoled"
+	},
+{
 		"name": "city view1",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/city view1.jpg",
