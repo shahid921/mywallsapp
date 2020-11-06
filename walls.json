@@ -1,5 +1,29 @@
 [
 {
+		"name": "moon-tree",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/moon-tree.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/moon-trees.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "street pole",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/street pole.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/street poles.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "dark sunset",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark sunsets.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
 		"name": "amoled 7",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled 7.jpg",
