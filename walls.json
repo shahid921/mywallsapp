@@ -1,5 +1,29 @@
 [
 {
+		"name": "dark blue sunset",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark blue sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark blue sunsets.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "dark red sunset",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark red sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark red sunsets.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "dark purple sunset",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark purple sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/dark purple sunsets.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
 		"name": "moon-tree",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/moon-tree.jpg",
