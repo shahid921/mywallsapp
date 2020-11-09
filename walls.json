@@ -1,13 +1,30 @@
 [
 
 {
+		"name": "flowers light bg",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flowers light bg.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flowers light bgs.jpg",
+		"downloadable" : "false",
+		"collections": "Abstract"
+	},
+{
+		"name": "flowers dark bg",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flowers dark bg.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flowers dark bgs.jpg",
+		"downloadable" : "false",
+		"collections": "Abstract"
+	},
+{
 		"name": "map light",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/map light.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/map lights.jpg",
 		"downloadable" : "false",
 		"collections": "Pattern"
-	},{
+	},
+{
 		"name": "map dark",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/map dark.jpg",
