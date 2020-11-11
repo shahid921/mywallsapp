@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "instagram ui light",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/instagram ui light.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/instagram ui lights.jpg",
+		"downloadable" : "false",
+		"collections": "UI"
+	},
+{
+		"name": "instagram ui dark",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/instagram ui dark.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/instagram ui darks.jpg",
+		"downloadable" : "false",
+		"collections": "Amoled,UI"
+	},
+{
 		"name": "flowers light bg",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flowers light bg.jpg",
