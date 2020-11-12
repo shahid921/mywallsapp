@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "coconut trees day",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/coconut trees day.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/coconut trees days.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "coconut trees evening",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/coconut trees evening.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/coconut trees evenings.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "coconut trees night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/coconut trees night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/coconut trees nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector,Dark"
+	},
+{
 		"name": "instagram ui light",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/instagram ui light.jpg",
