@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "car day",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/car day.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/car days.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "car sunset",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/car sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/car sunsets.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "car night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/car night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/car nights days.jpg",
+		"downloadable" : "false",
+		"collections": "Vector,Dark"
+	},
+{
 		"name": "coconut trees day",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/coconut trees day.jpg",
