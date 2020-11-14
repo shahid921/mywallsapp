@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "moon minimal",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/moon minimal.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/moon minimals.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "Hexagon Pattern",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Hexagon Pattern.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/Hexagon Patterns.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "mountain minimal",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountain minimal.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountain minimals.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
 		"name": "car day",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/car day.jpg",
