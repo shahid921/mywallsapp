@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "flower pot",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flower pot.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flower pots.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "garden minimal",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/garden minimal.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/garden minimals.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
 		"name": "moon minimal",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/moon minimal.jpg",
