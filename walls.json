@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "purple paint",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/purple paint.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/purple paints.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "yellow paint",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/yellow paint.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/yellow paints.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "blue paint",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/blue paint.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/blue paints.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
 		"name": "flower pot",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flower pot.jpg",
