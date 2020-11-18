@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "amoled window",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled window.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled windows.jpg",
+		"downloadable" : "false",
+		"collections": "Amoled"
+	},
+{
+		"name": "amoled moon",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled moon.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled moons.jpg",
+		"downloadable" : "false",
+		"collections": "Amoled"
+	},
+{
+		"name": "amoled birds",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled birds.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled birdss.jpg",
+		"downloadable" : "false",
+		"collections": "Amoled"
+	},
+{
 		"name": "purple paint",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/purple paint.jpg",
