@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "hexagon pattern dark",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hexagon pattern dark.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hexagon pattern darks.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
+		"name": "hexagon pattern yellow",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hexagon pattern yellow.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hexagon pattern yellows.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
+		"name": "hexagon pattern purple",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hexagon pattern purple.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hexagon pattern purples.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
 		"name": "amoled window",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/amoled window.jpg",
