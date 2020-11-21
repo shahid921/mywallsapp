@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "taj",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/taj.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/tajs.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
+		"name": "paris dark",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/paris dark.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/paris darks.jpg",
+		"downloadable" : "false",
+		"collections": "Dark"
+	},
+{
 		"name": "hexagon pattern dark",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hexagon pattern dark.jpg",
