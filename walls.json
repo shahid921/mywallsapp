@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "calm sky orange",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/calm sky orange.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/calm sky oranges.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "calm sky pink",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/calm sky pink.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/calm sky pinks.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "taj",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/taj.jpg",
