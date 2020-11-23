@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "drink",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/drink.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/drinks.jpg",
+		"downloadable" : "false",
+		"collections": "Food"
+	},
+{
+		"name": "tea",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/tea.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/teas.jpg",
+		"downloadable" : "false",
+		"collections": "Food"
+	},
+{
 		"name": "calm sky orange",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/calm sky orange.jpg",
