@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "mountains orange",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountains orange.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountains oranges.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "mountains purple",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountains purple.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountains purples.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "mountains night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountains night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountains nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "drink",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/drink.jpg",
