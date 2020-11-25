@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "texture dark",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/texture dark.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/texture darks.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
+		"name": "texture colorful",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/texture colorful.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/texture colorfuls.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
+		"name": "texture black",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/texture black.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/texture blacks.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
 		"name": "mountains orange",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/mountains orange.jpg",
