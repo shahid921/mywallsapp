@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "doodle blue",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/doodle blue.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/doodle blues.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
+		"name": "doodle brown",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/doodle brown.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/doodle browns.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
+		"name": "doodle cream",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/doodle cream.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/doodle creams.jpg",
+		"downloadable" : "false",
+		"collections": "Pattern"
+	},
+{
 		"name": "texture dark",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/texture dark.jpg",
