@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "abstract bg 4",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract bg 4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract bg 4s.jpg",
+		"downloadable" : "false",
+		"collections": "Abstract"
+	},
+{
+		"name": "abstract bg 5",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract bg 5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract bg 5s.jpg",
+		"downloadable" : "false",
+		"collections": "Abstract"
+	},
+{
+		"name": "abstract bg 6",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract bg 6.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract bg 6s.jpg",
+		"downloadable" : "false",
+		"collections": "Abstract,Dark"
+	},
+{
 		"name": "hanging leaves",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hanging leaves.jpg",
