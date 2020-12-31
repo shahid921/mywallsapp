@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "desert blue",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert blue.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert blues.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "desert",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/deserts.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "desert purple",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert purple.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert purples.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "pattern 112",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pattern 112.jpg",
