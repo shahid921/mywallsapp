@@ -1,6 +1,30 @@
 [
 
 {
+		"name": "#desert pink",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/#desert pink.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/#desert pinks.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#desert sunset",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/#desert sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/#desert sunsets.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#desert night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/#desert night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/#desert nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "hills green",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/hills green.jpg",
