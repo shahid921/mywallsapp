@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "pot",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pot.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pots.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "ruby hills",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/ruby%20hills.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/ruby%20hillss.jpg",
+		"downloadable" : "false"
+		
+	},
+{
 		"name": "abstract",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract.jpg",
