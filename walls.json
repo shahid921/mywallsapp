@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "forest mountain",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/forest%20mountain.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/forest%20mountains.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "forest mountain night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/forest%20mountain%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/forest%20mountain%20nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "#desert pink",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/%23desert%20pink.jpg",
