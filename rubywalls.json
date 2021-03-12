@@ -1,6 +1,22 @@
 [
 
 {
+		"name": "couple",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/couple.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/couples.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "plane window",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/plane%20window.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/plane%20windows.jpg",
+		"downloadable" : "false"
+		
+	},
+{
 		"name": "pot",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pot.jpg",
