@@ -1,5 +1,28 @@
 [
-
+{
+		"name": "sea rocks",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sea%20rocks.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sea%20rockss.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "sea rocks evening",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sea%20rocks%20evening.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sea%20rocks%20evenings.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "sea rocks night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sea%20rocks%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sea%20rocks%20nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
 {
 		"name": "trees and hills",
 		"author": "SKwallpapers",
