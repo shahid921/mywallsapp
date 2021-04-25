@@ -1,5 +1,29 @@
 [
 {
+		"name": "desert tree",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/desert%20tree.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/desert%20trees.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "desert tree evening",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/desert%20tree%20evening.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/desert%20tree%20evenings.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "desert tree night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/desert%20tree%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/desert%20tree%20nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "sea rocks",
 		"author": "SKwallpapers",
 		"url": "https://drive.google.com/file/d/1bXVNJM2FeTtMXGdbom9k1ssGUdbIHW5v/view?usp=sharing",
