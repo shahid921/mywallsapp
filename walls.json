@@ -1,5 +1,29 @@
 [
 {
+		"name": "roadway",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/roadway.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/roadways.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "roadway evening",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/roadway%20evening.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/roadway%20evenings.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "roadway night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/roadway%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/roadway%20nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "desert tree",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/desert%20tree.jpg",
