@@ -1,5 +1,21 @@
 [
 {
+		"name": "circle window",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/circle%20window.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/circle%20windows.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "circle window night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/circle%20window%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/circle%20window%20nights.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "roadway",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/roadway.jpg",
