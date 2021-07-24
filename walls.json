@@ -1,5 +1,29 @@
 [
 {
+		"name": "loki",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/loki.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/lokis.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "loki 2",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/loki2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/loki2s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "loki 3",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/loki3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/loki3s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
 		"name": "#350",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/%23350.jpg",
