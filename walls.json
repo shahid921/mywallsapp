@@ -1,19 +1,27 @@
 [
 {
-		"name": "#367",
+		"name": "pastel#1",
 		"author": "SKwallpapers",
-		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/%23367.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/%23367s.jpg",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/pastel%231.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/pastel%231s.jpg",
 		"downloadable" : "false",
-		"collections": "Vector"
+		"collections": "Pastel"
 	},
 {
-		"name": "#366",
+		"name": "pastel#2",
 		"author": "SKwallpapers",
-		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/%23366.png",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/%23366s.jpg",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/pastel%20%232.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/pastel%232s.jpg",
 		"downloadable" : "false",
-		"collections": "Vector"
+		"collections": "Pastel"
+	},
+{
+		"name": "pastel#8",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/pastel%238.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/mywallsapp/master/pastel%238s.jpg",
+		"downloadable" : "false",
+		"collections": "Pastel"
 	},
 {
 		"name": "#365",
